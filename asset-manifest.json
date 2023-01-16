@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginformreact/static/css/main.d76171d0.css",
+    "main.js": "/loginformreact/static/js/main.33edea01.js",
+    "static/media/image.jpg": "/loginformreact/static/media/image.eca10d0b8a82c9eeb2fb.jpg",
+    "index.html": "/loginformreact/index.html",
+    "main.d76171d0.css.map": "/loginformreact/static/css/main.d76171d0.css.map",
+    "main.33edea01.js.map": "/loginformreact/static/js/main.33edea01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76171d0.css",
+    "static/js/main.33edea01.js"
+  ]
+}
